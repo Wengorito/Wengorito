@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wengorito
-- 👀 I’m interested in ... Computer Vision, Photonics Engineering and many many more
-- 🌱 I’m currently learning ... OOP principles and .NET
-- 💞️ I’m looking to collaborate on ... cualquier cosa
-- 📫 How to reach me ... e.g. by my email which is _____@gmail.com
+- 👀 I’m interested in ... Engineering and Software Development (both Desktop and Web)
+- 🌱 I’m currently learning ... OOP principles and .NET enviroment
+- 💞️ I’m looking to collaborate on ... interesting and challenging stuff
+- 📫 How to reach me ... if you got here I assume you are in possesion of my e-mail address
 
 <!---
 Wengorito/Wengorito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
