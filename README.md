@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wengorito
 - 👀 I’m interested in ... Engineering and Software Development
-- 🌱 I’m currently learning ... OOP principles and .NET enviroment
-- 💞️ I’m looking to collaborate on ... interesting and challenging stuff
+- 🌱 I’m currently learning ... OOP principles and .NET environment
+- 💞️ I’d love to collaborate on ... interesting and challenging stuff
 - 🖊️ My motto is ... _No wise fish would go anywhere without a porpoise_ 😝
 
 <!---
